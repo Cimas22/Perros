@@ -1,0 +1,99 @@
+body {background-color:white }
+
+header {background-color: Mediumvioletred;
+widht:300px
+font-weight: bold;
+text-align: left;
+}
+
+footer {
+  background-color: Mediumvioletred;
+  font-weight: bold;
+  text-align: center;
+}
+
+#table
+{border-style: solid;
+border-color: blue
+}
+
+#cuadro1 {
+width: 300px;
+background-color: indigo;
+font-weight: bold;
+text-align: center
+  }
+#cuadro2 {
+width: 300px;
+background-color: purple
+}
+#cuadro3 {
+width: 300px;
+background-color: darkmagenta;
+font-weight: bold;
+text-align: center
+}
+#cuadro4 {
+width: 300px;
+background-color: blueviolet
+}
+#cuadro5 {
+width: 300px;
+background-color: fuchsia;
+font-weight: bold;
+text-align: center
+}
+#cuadro6 {
+width: 300px;
+background-color: lavender
+}
+#cuadro7{
+width: 300px;
+background-color: darkcyan;
+font-weight: bold;
+text-align: center
+}
+#cuadro8 {
+width: 300px;
+background-color: aquamarine
+}
+#cuadro9 {
+width: 300px;
+background-color: turquoise;
+font-weight: bold;
+text-align: center
+  }
+#cuadro10 {
+width: 300px;
+background-color: aqua
+}
+#cuadro11 {
+width: 300px;
+background-color: lightcyan;
+font-weight: bold;
+text-align: center
+}
+#cuadro12 {
+width: 300px;
+background-color: navy
+}
+#cuadro13 {
+width: 300px;
+background-color: skyblue;
+font-weight: bold;
+text-align: center
+}
+#cuadro14 {
+width: 300px;
+background-color: lightblue
+}
+#cuadro15{
+width: 300px;
+background-color: powderblue;
+font-weight: bold;
+text-align: center
+}
+#cuadro16 {
+width: 300px;
+background-color: midnightblue
+}
